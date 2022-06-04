@@ -1,0 +1,10 @@
+main: com.solarrabbit.fastarmorstands.FastArmorStands
+name: FastArmorStands
+version: '${project.version}'
+author: SolarRabbit
+api-version: 1.14
+
+permissions:
+  fastarmorstands.swap:
+    description: Able to swap armor stands' equipment.
+    default: true
